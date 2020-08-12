@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": "0",
+            "project_name": "Random Quote Generator",
+            "description": "Generates a new random quote by clicking on the button and refreshes every 10 seconds.",
+            "technologies": ["Javascript", "HTML", "CSS"],
+            "live_link":"https://marnikd.github.io/techdegree-random-quote/",
+            "github_link":"https://github.com/marnikd/techdegree-random-quote",
+            "image_urls":["images/techdegree-project1-front.png","images/techdegree-project1-inside1.png","images/techdegree-project1-inside2.png","images/techdegree-project1-inside3.png"]
+        },
+        {
+            "id": "1",
+            "project_name": "List Pagination and Filtering ",
+            "description": "Improves user experience when viewing a long list of students. The user is able to search for students and use the navigation to view students.",
+            "technologies": ["Javascript", "HTML", "CSS"],
+            "live_link":"https://marnikd.github.io/techdegree-unit2-project/",
+            "github_link":"https://github.com/marnikd/techdegree-unit2-project",
+            "image_urls":["images/techdegree-project2-front.png","images/techdegree-project2-inside1.png","images/techdegree-project2-inside2.png","images/techdegree-project2-inside3.png"]
+        },
+        {
+            "id": "2",
+            "project_name": "Interactive Form",
+            "description": "Form for a Full Stack Javascript conference, which responds to user action and shows real time error messages when input is wrong.",
+            "technologies": ["Javascript", "HTML", "CSS"],
+            "live_link":"https://marnikd.github.io/techdegree-interactive-form/",
+            "github_link":"https://github.com/marnikd/techdegree-interactive-form",
+            "image_urls":["images/techdegree-project3-front.png","images/techdegree-project3-inside1.png","images/techdegree-project3-inside2.png","images/techdegree-project3-inside3.png"]
+        },
+        {
+            "id": "3",
+            "project_name": "Phrase Hunter",
+            "description": "A player has to guess the phrase by selecting letters. The player only has 5 lives, so shouldn't make too many mistakes.",
+            "technologies": ["Javascript", "HTML", "CSS"],
+            "live_link":"https://marnikd.github.io/techdegree-oop-game/",
+            "github_link":"https://github.com/marnikd/techdegree-oop-game",
+            "image_urls":["images/techdegree-project4-front.png","images/techdegree-project4-inside1.png","images/techdegree-project4-inside2.png","images/techdegree-project4-inside3.png"]
+        },
+        {
+            "id": "4",
+            "project_name": "Employee Directory",
+            "description": "By communicating with a third-party API, random employees are fetched and displayed on a page. ",
+            "technologies": ["Javascript", "HTML", "CSS","AJAX","HTTP"],
+            "live_link":"https://marnikd.github.io/techdegree-api-request/",
+            "github_link":"https://github.com/marnikd/techdegree-api-request",
+            "image_urls":["images/techdegree-project5-front.png","images/techdegree-project5-inside1.png","images/techdegree-project5-inside2.png","images/techdegree-project5-inside3.png"]
+        }
+    ]
+  }

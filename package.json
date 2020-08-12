@@ -1,0 +1,17 @@
+{
+  "name": "techdegree-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio for Full Stack JS Techdegree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {}
+}
